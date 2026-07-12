@@ -1,0 +1,47 @@
+﻿[
+  {
+    "Name": "Cairo Main Branch",
+    "Address": "Tahrir Square, Cairo",
+    "OperatigHours": 8,
+    "OperationalStatus": "Active",
+    "BranchCode": "CAI001",
+    "EmailAddress": "cairo@bank.com",
+    "PhoneNumber": "0223456789"
+  },
+  {
+    "Name": "Alexandria Branch",
+    "Address": "Corniche, Alexandria",
+    "OperatigHours": 8,
+    "OperationalStatus": "Active",
+    "BranchCode": "ALX001",
+    "EmailAddress": "alex@bank.com",
+    "PhoneNumber": "0323456789"
+  },
+  {
+    "Name": "Giza Branch",
+    "Address": "Haram, Giza",
+    "OperatigHours": 8,
+    "OperationalStatus": "Active",
+    "BranchCode": "GIZ001",
+    "EmailAddress": "giza@bank.com",
+    "PhoneNumber": "0223456790"
+  },
+  {
+    "Name": "Mansoura Branch",
+    "Address": "Gomhouria, Mansoura",
+    "OperatigHours": 8,
+    "OperationalStatus": "Active",
+    "BranchCode": "MAN001",
+    "EmailAddress": "mansoura@bank.com",
+    "PhoneNumber": "0502345678"
+  },
+  {
+    "Name": "Aswan Branch",
+    "Address": "Corniche, Aswan",
+    "OperatigHours": 6,
+    "OperationalStatus": "Active",
+    "BranchCode": "ASW001",
+    "EmailAddress": "aswan@bank.com",
+    "PhoneNumber": "0972345678"
+  }
+]

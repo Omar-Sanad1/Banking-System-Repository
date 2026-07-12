@@ -1,0 +1,92 @@
+﻿[
+  {
+    "PaymentMethod": "Online",
+    "PaymentStatus": "Completed",
+    "PaymentAmount": 500,
+    "PaymentDate": "2021-01-01T10:00:00",
+    "ReferenceNumber": "PAY001",
+    "ServiceType": "Electricity",
+    "AccountID": 1
+  },
+  {
+    "PaymentMethod": "ATM",
+    "PaymentStatus": "Completed",
+    "PaymentAmount": 300,
+    "PaymentDate": "2021-01-02T11:00:00",
+    "ReferenceNumber": "PAY002",
+    "ServiceType": "Water",
+    "AccountID": 2
+  },
+  {
+    "PaymentMethod": "Online",
+    "PaymentStatus": "Completed",
+    "PaymentAmount": 800,
+    "PaymentDate": "2021-01-03T12:00:00",
+    "ReferenceNumber": "PAY003",
+    "ServiceType": "Internet",
+    "AccountID": 3
+  },
+  {
+    "PaymentMethod": "Branch",
+    "PaymentStatus": "Completed",
+    "PaymentAmount": 1200,
+    "PaymentDate": "2021-01-04T13:00:00",
+    "ReferenceNumber": "PAY004",
+    "ServiceType": "Gas",
+    "AccountID": 4
+  },
+  {
+    "PaymentMethod": "Online",
+    "PaymentStatus": "Completed",
+    "PaymentAmount": 450,
+    "PaymentDate": "2021-01-05T14:00:00",
+    "ReferenceNumber": "PAY005",
+    "ServiceType": "Phone",
+    "AccountID": 5
+  },
+  {
+    "PaymentMethod": "ATM",
+    "PaymentStatus": "Completed",
+    "PaymentAmount": 600,
+    "PaymentDate": "2021-01-06T15:00:00",
+    "ReferenceNumber": "PAY006",
+    "ServiceType": "Electricity",
+    "AccountID": 6
+  },
+  {
+    "PaymentMethod": "Online",
+    "PaymentStatus": "Pending",
+    "PaymentAmount": 750,
+    "PaymentDate": "2021-01-07T16:00:00",
+    "ReferenceNumber": "PAY007",
+    "ServiceType": "Water",
+    "AccountID": 7
+  },
+  {
+    "PaymentMethod": "Branch",
+    "PaymentStatus": "Completed",
+    "PaymentAmount": 900,
+    "PaymentDate": "2021-01-08T17:00:00",
+    "ReferenceNumber": "PAY008",
+    "ServiceType": "Internet",
+    "AccountID": 8
+  },
+  {
+    "PaymentMethod": "Online",
+    "PaymentStatus": "Completed",
+    "PaymentAmount": 350,
+    "PaymentDate": "2021-01-09T18:00:00",
+    "ReferenceNumber": "PAY009",
+    "ServiceType": "Gas",
+    "AccountID": 9
+  },
+  {
+    "PaymentMethod": "ATM",
+    "PaymentStatus": "Completed",
+    "PaymentAmount": 550,
+    "PaymentDate": "2021-01-10T19:00:00",
+    "ReferenceNumber": "PAY010",
+    "ServiceType": "Phone",
+    "AccountID": 10
+  }
+]

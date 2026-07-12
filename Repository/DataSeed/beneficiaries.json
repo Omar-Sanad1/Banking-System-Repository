@@ -1,0 +1,92 @@
+﻿[
+  {
+    "BenificiaryName": "Ahmed Hassan",
+    "AccountNumber": "ACC101",
+    "BankName": "CIB",
+    "RelationshipType": "Family",
+    "CreationDate": "2021-01-01",
+    "VerificationStatus": "Verified",
+    "AccountID": 1
+  },
+  {
+    "BenificiaryName": "Sara Mohamed",
+    "AccountNumber": "ACC102",
+    "BankName": "NBE",
+    "RelationshipType": "Friend",
+    "CreationDate": "2021-01-02",
+    "VerificationStatus": "Verified",
+    "AccountID": 2
+  },
+  {
+    "BenificiaryName": "Omar Ali",
+    "AccountNumber": "ACC103",
+    "BankName": "Banque Misr",
+    "RelationshipType": "Business",
+    "CreationDate": "2021-01-03",
+    "VerificationStatus": "Verified",
+    "AccountID": 3
+  },
+  {
+    "BenificiaryName": "Nour Khaled",
+    "AccountNumber": "ACC104",
+    "BankName": "QNB",
+    "RelationshipType": "Family",
+    "CreationDate": "2021-01-04",
+    "VerificationStatus": "Pending",
+    "AccountID": 4
+  },
+  {
+    "BenificiaryName": "Mona Adel",
+    "AccountNumber": "ACC105",
+    "BankName": "HSBC",
+    "RelationshipType": "Friend",
+    "CreationDate": "2021-01-05",
+    "VerificationStatus": "Verified",
+    "AccountID": 5
+  },
+  {
+    "BenificiaryName": "Karim Fathy",
+    "AccountNumber": "ACC106",
+    "BankName": "CIB",
+    "RelationshipType": "Business",
+    "CreationDate": "2021-01-06",
+    "VerificationStatus": "Verified",
+    "AccountID": 6
+  },
+  {
+    "BenificiaryName": "Hana Salem",
+    "AccountNumber": "ACC107",
+    "BankName": "NBE",
+    "RelationshipType": "Family",
+    "CreationDate": "2021-01-07",
+    "VerificationStatus": "Verified",
+    "AccountID": 7
+  },
+  {
+    "BenificiaryName": "Tarek Magdy",
+    "AccountNumber": "ACC108",
+    "BankName": "Banque Misr",
+    "RelationshipType": "Friend",
+    "CreationDate": "2021-01-08",
+    "VerificationStatus": "Pending",
+    "AccountID": 8
+  },
+  {
+    "BenificiaryName": "Dina Samy",
+    "AccountNumber": "ACC109",
+    "BankName": "QNB",
+    "RelationshipType": "Business",
+    "CreationDate": "2021-01-09",
+    "VerificationStatus": "Verified",
+    "AccountID": 9
+  },
+  {
+    "BenificiaryName": "Youssef Omar",
+    "AccountNumber": "ACC110",
+    "BankName": "HSBC",
+    "RelationshipType": "Family",
+    "CreationDate": "2021-01-10",
+    "VerificationStatus": "Verified",
+    "AccountID": 10
+  }
+]

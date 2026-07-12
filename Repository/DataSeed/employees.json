@@ -1,0 +1,54 @@
+﻿[
+  {
+    "FullName": "Sara Ahmed",
+    "NationalID": "29901011234567",
+    "Gender": "Female",
+    "DateOfBirth": "1999-01-01",
+    "Address": "Cairo",
+    "HiringDate": "2020-01-01",
+    "Position": "Teller",
+    "Salary": 8000,
+    "Status": "Active",
+    "BranchID": 1,
+    "UserID": 2
+  },
+  {
+    "FullName": "Omar Hassan",
+    "NationalID": "29801011234567",
+    "Gender": "Male",
+    "DateOfBirth": "1998-01-01",
+    "Address": "Alexandria",
+    "HiringDate": "2019-01-01",
+    "Position": "Manager",
+    "Salary": 15000,
+    "Status": "Active",
+    "BranchID": 2,
+    "UserID": 3
+  },
+  {
+    "FullName": "Ali Mohamed",
+    "NationalID": "29701011234567",
+    "Gender": "Male",
+    "DateOfBirth": "1997-01-01",
+    "Address": "Giza",
+    "HiringDate": "2021-01-01",
+    "Position": "Teller",
+    "Salary": 7000,
+    "Status": "Active",
+    "BranchID": 3,
+    "UserID": 4
+  },
+  {
+    "FullName": "Nour Salem",
+    "NationalID": "29601011234567",
+    "Gender": "Female",
+    "DateOfBirth": "1996-01-01",
+    "Address": "Mansoura",
+    "HiringDate": "2022-01-01",
+    "Position": "Accountant",
+    "Salary": 10000,
+    "Status": "Active",
+    "BranchID": 4,
+    "UserID": 5
+  }
+]

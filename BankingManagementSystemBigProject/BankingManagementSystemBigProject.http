@@ -1,0 +1,6 @@
+@BankingManagementSystemBigProject_HostAddress = http://localhost:5042
+
+GET {{BankingManagementSystemBigProject_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

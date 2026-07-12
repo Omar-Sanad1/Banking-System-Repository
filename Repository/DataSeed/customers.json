@@ -1,0 +1,112 @@
+﻿[
+  {
+    "FullName": "Mona Ali",
+    "NationalID": "29501011234567",
+    "Gender": "Female",
+    "DateOfBirth": "1995-01-01",
+    "ResidintialAddress": "Cairo",
+    "Occuption": "Engineer",
+    "RegisterationDate": "2020-01-01",
+    "AccountStatus": "Active",
+    "UserID": 6
+  },
+  {
+    "FullName": "Karim Saad",
+    "NationalID": "29401011234567",
+    "Gender": "Male",
+    "DateOfBirth": "1994-01-01",
+    "ResidintialAddress": "Alexandria",
+    "Occuption": "Doctor",
+    "RegisterationDate": "2020-02-01",
+    "AccountStatus": "Active",
+    "UserID": 7
+  },
+  {
+    "FullName": "Hana Khaled",
+    "NationalID": "29301011234567",
+    "Gender": "Female",
+    "DateOfBirth": "1993-01-01",
+    "ResidintialAddress": "Giza",
+    "Occuption": "Teacher",
+    "RegisterationDate": "2020-03-01",
+    "AccountStatus": "Active",
+    "UserID": 8
+  },
+  {
+    "FullName": "Tarek Nasser",
+    "NationalID": "29201011234567",
+    "Gender": "Male",
+    "DateOfBirth": "1992-01-01",
+    "ResidintialAddress": "Mansoura",
+    "Occuption": "Lawyer",
+    "RegisterationDate": "2020-04-01",
+    "AccountStatus": "Active",
+    "UserID": 9
+  },
+  {
+    "FullName": "Dina Fathy",
+    "NationalID": "29101011234567",
+    "Gender": "Female",
+    "DateOfBirth": "1991-01-01",
+    "ResidintialAddress": "Aswan",
+    "Occuption": "Pharmacist",
+    "RegisterationDate": "2020-05-01",
+    "AccountStatus": "Active",
+    "UserID": 10
+  },
+  {
+    "FullName": "Youssef Magdy",
+    "NationalID": "29001011234567",
+    "Gender": "Male",
+    "DateOfBirth": "1990-01-01",
+    "ResidintialAddress": "Cairo",
+    "Occuption": "Accountant",
+    "RegisterationDate": "2020-06-01",
+    "AccountStatus": "Active",
+    "UserID": 11
+  },
+  {
+    "FullName": "Rania Samy",
+    "NationalID": "28901011234567",
+    "Gender": "Female",
+    "DateOfBirth": "1989-01-01",
+    "ResidintialAddress": "Alexandria",
+    "Occuption": "Nurse",
+    "RegisterationDate": "2020-07-01",
+    "AccountStatus": "Active",
+    "UserID": 12
+  },
+  {
+    "FullName": "Mostafa Adel",
+    "NationalID": "28801011234567",
+    "Gender": "Male",
+    "DateOfBirth": "1988-01-01",
+    "ResidintialAddress": "Giza",
+    "Occuption": "Developer",
+    "RegisterationDate": "2020-08-01",
+    "AccountStatus": "Active",
+    "UserID": 13
+  },
+  {
+    "FullName": "Aya Ibrahim",
+    "NationalID": "28701011234567",
+    "Gender": "Female",
+    "DateOfBirth": "1987-01-01",
+    "ResidintialAddress": "Mansoura",
+    "Occuption": "Designer",
+    "RegisterationDate": "2020-09-01",
+    "AccountStatus": "Active",
+    "UserID": 14
+  },
+  {
+    "FullName": "Hassan Omar",
+    "NationalID": "28601011234567",
+    "Gender": "Male",
+    "DateOfBirth": "1986-01-01",
+    "ResidintialAddress": "Aswan",
+    "Occuption": "Architect",
+    "RegisterationDate": "2020-10-01",
+    "AccountStatus": "Active",
+    "UserID": 15
+  }
+]

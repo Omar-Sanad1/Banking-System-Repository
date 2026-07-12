@@ -1,0 +1,122 @@
+﻿[
+  {
+    "UserName": "ahmed_admin",
+    "PhoneNumber": "01012345678",
+    "EmailAddress": "ahmed@bank.com",
+    "PasswordHash": "123456",
+    "isActive": true,
+    "RoleID": 1
+  },
+  {
+    "UserName": "sara_emp",
+    "PhoneNumber": "01112345678",
+    "EmailAddress": "sara@bank.com",
+    "PasswordHash": "123456",
+    "isActive": true,
+    "RoleID": 2
+  },
+  {
+    "UserName": "omar_emp",
+    "PhoneNumber": "01212345678",
+    "EmailAddress": "omar@bank.com",
+    "PasswordHash": "123456",
+    "isActive": true,
+    "RoleID": 2
+  },
+  {
+    "UserName": "ali_emp",
+    "PhoneNumber": "01312345678",
+    "EmailAddress": "ali@bank.com",
+    "PasswordHash": "123456",
+    "isActive": true,
+    "RoleID": 2
+  },
+  {
+    "UserName": "nour_emp",
+    "PhoneNumber": "01412345678",
+    "EmailAddress": "nour@bank.com",
+    "PasswordHash": "123456",
+    "isActive": true,
+    "RoleID": 2
+  },
+  {
+    "UserName": "mona_cust",
+    "PhoneNumber": "01512345678",
+    "EmailAddress": "mona@gmail.com",
+    "PasswordHash": "123456",
+    "isActive": true,
+    "RoleID": 3
+  },
+  {
+    "UserName": "karim_cust",
+    "PhoneNumber": "01612345678",
+    "EmailAddress": "karim@gmail.com",
+    "PasswordHash": "123456",
+    "isActive": true,
+    "RoleID": 3
+  },
+  {
+    "UserName": "hana_cust",
+    "PhoneNumber": "01712345678",
+    "EmailAddress": "hana@gmail.com",
+    "PasswordHash": "123456",
+    "isActive": true,
+    "RoleID": 3
+  },
+  {
+    "UserName": "tarek_cust",
+    "PhoneNumber": "01812345678",
+    "EmailAddress": "tarek@gmail.com",
+    "PasswordHash": "123456",
+    "isActive": true,
+    "RoleID": 3
+  },
+  {
+    "UserName": "dina_cust",
+    "PhoneNumber": "01912345678",
+    "EmailAddress": "dina@gmail.com",
+    "PasswordHash": "123456",
+    "isActive": true,
+    "RoleID": 3
+  },
+  {
+    "UserName": "youssef_cust",
+    "PhoneNumber": "01023456789",
+    "EmailAddress": "youssef@gmail.com",
+    "PasswordHash": "123456",
+    "isActive": true,
+    "RoleID": 3
+  },
+  {
+    "UserName": "rania_cust",
+    "PhoneNumber": "01123456789",
+    "EmailAddress": "rania@gmail.com",
+    "PasswordHash": "123456",
+    "isActive": true,
+    "RoleID": 3
+  },
+  {
+    "UserName": "mostafa_cust",
+    "PhoneNumber": "01223456789",
+    "EmailAddress": "mostafa@gmail.com",
+    "PasswordHash": "123456",
+    "isActive": true,
+    "RoleID": 3
+  },
+  {
+    "UserName": "aya_cust",
+    "PhoneNumber": "01323456789",
+    "EmailAddress": "aya@gmail.com",
+    "PasswordHash": "123456",
+    "isActive": true,
+    "RoleID": 3
+  },
+  {
+    "UserName": "hassan_cust",
+    "PhoneNumber": "01423456789",
+    "EmailAddress": "hassan@gmail.com",
+    "PasswordHash": "123456",
+    "isActive": true,
+    "RoleID": 3
+  }
+]

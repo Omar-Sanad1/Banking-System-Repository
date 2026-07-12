@@ -1,0 +1,102 @@
+﻿[
+  {
+    "LoanType": "Personal",
+    "RequestedAmount": 50000,
+    "RepaymentPeriod": 24,
+    "InterestRate": 12.5,
+    "ApplicationDate": "2021-01-01",
+    "ApprovalStatus": "Approved",
+    "MonthlyInstallmentAmount": 2500,
+    "CustomerID": 1
+  },
+  {
+    "LoanType": "Mortgage",
+    "RequestedAmount": 500000,
+    "RepaymentPeriod": 120,
+    "InterestRate": 10.5,
+    "ApplicationDate": "2021-02-01",
+    "ApprovalStatus": "Approved",
+    "MonthlyInstallmentAmount": 6000,
+    "CustomerID": 2
+  },
+  {
+    "LoanType": "Car",
+    "RequestedAmount": 150000,
+    "RepaymentPeriod": 48,
+    "InterestRate": 11.5,
+    "ApplicationDate": "2021-03-01",
+    "ApprovalStatus": "Approved",
+    "MonthlyInstallmentAmount": 4000,
+    "CustomerID": 3
+  },
+  {
+    "LoanType": "Personal",
+    "RequestedAmount": 30000,
+    "RepaymentPeriod": 12,
+    "InterestRate": 13.5,
+    "ApplicationDate": "2021-04-01",
+    "ApprovalStatus": "Pending",
+    "MonthlyInstallmentAmount": 2800,
+    "CustomerID": 4
+  },
+  {
+    "LoanType": "Business",
+    "RequestedAmount": 200000,
+    "RepaymentPeriod": 60,
+    "InterestRate": 9.5,
+    "ApplicationDate": "2021-05-01",
+    "ApprovalStatus": "Approved",
+    "MonthlyInstallmentAmount": 4500,
+    "CustomerID": 5
+  },
+  {
+    "LoanType": "Personal",
+    "RequestedAmount": 40000,
+    "RepaymentPeriod": 24,
+    "InterestRate": 12.5,
+    "ApplicationDate": "2021-06-01",
+    "ApprovalStatus": "Approved",
+    "MonthlyInstallmentAmount": 2000,
+    "CustomerID": 6
+  },
+  {
+    "LoanType": "Car",
+    "RequestedAmount": 100000,
+    "RepaymentPeriod": 36,
+    "InterestRate": 11.5,
+    "ApplicationDate": "2021-07-01",
+    "ApprovalStatus": "Rejected",
+    "MonthlyInstallmentAmount": 3500,
+    "CustomerID": 7
+  },
+  {
+    "LoanType": "Mortgage",
+    "RequestedAmount": 750000,
+    "RepaymentPeriod": 180,
+    "InterestRate": 10.5,
+    "ApplicationDate": "2021-08-01",
+    "ApprovalStatus": "Approved",
+    "MonthlyInstallmentAmount": 8000,
+    "CustomerID": 8
+  },
+  {
+    "LoanType": "Business",
+    "RequestedAmount": 300000,
+    "RepaymentPeriod": 60,
+    "InterestRate": 9.5,
+    "ApplicationDate": "2021-09-01",
+    "ApprovalStatus": "Pending",
+    "MonthlyInstallmentAmount": 6000,
+    "CustomerID": 9
+  },
+  {
+    "LoanType": "Personal",
+    "RequestedAmount": 20000,
+    "RepaymentPeriod": 12,
+    "InterestRate": 13.5,
+    "ApplicationDate": "2021-10-01",
+    "ApprovalStatus": "Approved",
+    "MonthlyInstallmentAmount": 1800,
+    "CustomerID": 10
+  }
+]

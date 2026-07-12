@@ -1,0 +1,5 @@
+﻿[
+  { "RoleName": "Admin" },
+  { "RoleName": "Employee" },
+  { "RoleName": "Customer" }
+]

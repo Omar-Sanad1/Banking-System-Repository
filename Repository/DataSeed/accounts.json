@@ -1,0 +1,112 @@
+﻿[
+  {
+    "AccountNumber": "ACC001",
+    "AccountType": "Savings",
+    "CurrentBalance": 50000,
+    "Currency": "EGP",
+    "OpeningDate": "2020-01-15",
+    "AccountStatus": "Active",
+    "MinimumRequiredBalance": 1000,
+    "BranchID": 1,
+    "CustomerID": 1
+  },
+  {
+    "AccountNumber": "ACC002",
+    "AccountType": "Current",
+    "CurrentBalance": 120000,
+    "Currency": "EGP",
+    "OpeningDate": "2020-02-15",
+    "AccountStatus": "Active",
+    "MinimumRequiredBalance": 5000,
+    "BranchID": 2,
+    "CustomerID": 2
+  },
+  {
+    "AccountNumber": "ACC003",
+    "AccountType": "Savings",
+    "CurrentBalance": 35000,
+    "Currency": "EGP",
+    "OpeningDate": "2020-03-15",
+    "AccountStatus": "Active",
+    "MinimumRequiredBalance": 1000,
+    "BranchID": 3,
+    "CustomerID": 3
+  },
+  {
+    "AccountNumber": "ACC004",
+    "AccountType": "Current",
+    "CurrentBalance": 80000,
+    "Currency": "EGP",
+    "OpeningDate": "2020-04-15",
+    "AccountStatus": "Active",
+    "MinimumRequiredBalance": 5000,
+    "BranchID": 4,
+    "CustomerID": 4
+  },
+  {
+    "AccountNumber": "ACC005",
+    "AccountType": "Savings",
+    "CurrentBalance": 25000,
+    "Currency": "EGP",
+    "OpeningDate": "2020-05-15",
+    "AccountStatus": "Active",
+    "MinimumRequiredBalance": 1000,
+    "BranchID": 5,
+    "CustomerID": 5
+  },
+  {
+    "AccountNumber": "ACC006",
+    "AccountType": "Savings",
+    "CurrentBalance": 60000,
+    "Currency": "EGP",
+    "OpeningDate": "2020-06-15",
+    "AccountStatus": "Active",
+    "MinimumRequiredBalance": 1000,
+    "BranchID": 1,
+    "CustomerID": 6
+  },
+  {
+    "AccountNumber": "ACC007",
+    "AccountType": "Current",
+    "CurrentBalance": 95000,
+    "Currency": "EGP",
+    "OpeningDate": "2020-07-15",
+    "AccountStatus": "Active",
+    "MinimumRequiredBalance": 5000,
+    "BranchID": 2,
+    "CustomerID": 7
+  },
+  {
+    "AccountNumber": "ACC008",
+    "AccountType": "Savings",
+    "CurrentBalance": 42000,
+    "Currency": "EGP",
+    "OpeningDate": "2020-08-15",
+    "AccountStatus": "Active",
+    "MinimumRequiredBalance": 1000,
+    "BranchID": 3,
+    "CustomerID": 8
+  },
+  {
+    "AccountNumber": "ACC009",
+    "AccountType": "Current",
+    "CurrentBalance": 110000,
+    "Currency": "EGP",
+    "OpeningDate": "2020-09-15",
+    "AccountStatus": "Active",
+    "MinimumRequiredBalance": 5000,
+    "BranchID": 4,
+    "CustomerID": 9
+  },
+  {
+    "AccountNumber": "ACC010",
+    "AccountType": "Savings",
+    "CurrentBalance": 15000,
+    "Currency": "EGP",
+    "OpeningDate": "2020-10-15",
+    "AccountStatus": "Active",
+    "MinimumRequiredBalance": 1000,
+    "BranchID": 5,
+    "CustomerID": 10
+  }
+]

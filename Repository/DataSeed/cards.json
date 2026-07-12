@@ -1,0 +1,102 @@
+﻿[
+  {
+    "CardNumber": "4111111111111111",
+    "CardType": "Visa Debit",
+    "IssueDate": "2020-01-15",
+    "ExpirationDate": "2025-01-15",
+    "CCV": 123,
+    "DailyTransactionLimit": 10000,
+    "CardStatus": "Active",
+    "AccountID": 1
+  },
+  {
+    "CardNumber": "4111111111111112",
+    "CardType": "Visa Credit",
+    "IssueDate": "2020-02-15",
+    "ExpirationDate": "2025-02-15",
+    "CCV": 124,
+    "DailyTransactionLimit": 20000,
+    "CardStatus": "Active",
+    "AccountID": 2
+  },
+  {
+    "CardNumber": "4111111111111113",
+    "CardType": "Mastercard Debit",
+    "IssueDate": "2020-03-15",
+    "ExpirationDate": "2025-03-15",
+    "CCV": 125,
+    "DailyTransactionLimit": 10000,
+    "CardStatus": "Active",
+    "AccountID": 3
+  },
+  {
+    "CardNumber": "4111111111111114",
+    "CardType": "Mastercard Credit",
+    "IssueDate": "2020-04-15",
+    "ExpirationDate": "2025-04-15",
+    "CCV": 126,
+    "DailyTransactionLimit": 15000,
+    "CardStatus": "Active",
+    "AccountID": 4
+  },
+  {
+    "CardNumber": "4111111111111115",
+    "CardType": "Visa Debit",
+    "IssueDate": "2020-05-15",
+    "ExpirationDate": "2025-05-15",
+    "CCV": 127,
+    "DailyTransactionLimit": 10000,
+    "CardStatus": "Active",
+    "AccountID": 5
+  },
+  {
+    "CardNumber": "4111111111111116",
+    "CardType": "Visa Credit",
+    "IssueDate": "2020-06-15",
+    "ExpirationDate": "2025-06-15",
+    "CCV": 128,
+    "DailyTransactionLimit": 20000,
+    "CardStatus": "Active",
+    "AccountID": 6
+  },
+  {
+    "CardNumber": "4111111111111117",
+    "CardType": "Mastercard Debit",
+    "IssueDate": "2020-07-15",
+    "ExpirationDate": "2025-07-15",
+    "CCV": 129,
+    "DailyTransactionLimit": 10000,
+    "CardStatus": "Active",
+    "AccountID": 7
+  },
+  {
+    "CardNumber": "4111111111111118",
+    "CardType": "Mastercard Credit",
+    "IssueDate": "2020-08-15",
+    "ExpirationDate": "2025-08-15",
+    "CCV": 130,
+    "DailyTransactionLimit": 15000,
+    "CardStatus": "Active",
+    "AccountID": 8
+  },
+  {
+    "CardNumber": "4111111111111119",
+    "CardType": "Visa Debit",
+    "IssueDate": "2020-09-15",
+    "ExpirationDate": "2025-09-15",
+    "CCV": 131,
+    "DailyTransactionLimit": 10000,
+    "CardStatus": "Active",
+    "AccountID": 9
+  },
+  {
+    "CardNumber": "4111111111111120",
+    "CardType": "Visa Credit",
+    "IssueDate": "2020-10-15",
+    "ExpirationDate": "2025-10-15",
+    "CCV": 132,
+    "DailyTransactionLimit": 20000,
+    "CardStatus": "Active",
+    "AccountID": 10
+  }
+]
